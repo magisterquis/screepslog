@@ -1,6 +1,6 @@
 screepslog
 ==========
-Prints screeps logs to the screen
+Prints screeps console logs
 
 Pretty much a direct ripoff of `https://github.com/TooAngel/screeps-cli`.
 
