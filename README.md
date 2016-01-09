@@ -2,6 +2,8 @@ screepslog
 ==========
 Prints screeps logs to the screen
 
+Pretty much a direct ripoff of `https://github.com/TooAngel/screeps-cli`.
+
 Installation
 ------------
 ```bash
