@@ -63,8 +63,6 @@ func handleWebsocket(u, p string) error {
 			return err
 		}
 	}
-
-	return nil
 }
 
 /* handleMessage handles a message m from ws */
